@@ -1,0 +1,16 @@
+.path-mod-scormlite .scoframe {
+	position: relative; 
+	width: 100%; 
+	height: 100%;
+}
+.path-mod-scormlite-report #region-main table.flexible tr.average
+{
+	font-weight: bold;
+}
+.path-mod-scormlite-report #region-main table.flexible tr.trainer
+{
+	color: #888;
+}
+
+
+
